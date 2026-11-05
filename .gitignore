@@ -12,6 +12,7 @@ Thumbs.db
 
 # generated outputs
 outputs/*.csv
+outputs/*.json
 !outputs/.gitkeep
 
 # local backups
