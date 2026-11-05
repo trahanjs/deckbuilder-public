@@ -1,0 +1,19 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# local editor/state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# generated outputs
+outputs/*.csv
+!outputs/.gitkeep
+
+# local backups
+*.bak
+*.tmp

@@ -1,0 +1,12 @@
+{
+  "name": "cube-and-deck-builder-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:decks": "node cubeAndDeckBuilder"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.1",
+    "csv-stringify": "^6.8.1"
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "generatedAt": "2026-11-05T15:59:16.169Z",
+  "commanders": {
+    "teval": {
+      "name": "Teval",
+      "theme": "Reanimate",
+      "color": "BGU",
+      "creature": 32,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "meren": {
+      "name": "Meren",
+      "theme": "Reanimate",
+      "color": "BG",
+      "creature": 37,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "sidisi": {
+      "name": "Sidisi",
+      "theme": "Reanimate",
+      "color": "BGU",
+      "creature": 40,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "zurgo": {
+      "name": "Zurgo",
+      "theme": "Aggro",
+      "color": "RWB",
+      "creature": 31,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "teysa": {
+      "name": "Teysa",
+      "theme": "Aggro",
+      "color": "WB",
+      "creature": 34,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "isshin": {
+      "name": "Isshin",
+      "theme": "Aggro",
+      "color": "RWB",
+      "creature": 30,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "shiko": {
+      "name": "Shiko",
+      "theme": "Flurry",
+      "color": "URW",
+      "creature": 19,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "stella": {
+      "name": "Stella",
+      "theme": "Flurry",
+      "color": "UR",
+      "creature": 15,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "kykar": {
+      "name": "Kykar",
+      "theme": "Flurry",
+      "color": "URW",
+      "creature": 15,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "vraska": {
+      "name": "Vraska",
+      "theme": "Flurry",
+      "color": "URW",
+      "creature": 19,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "betor": {
+      "name": "Betor",
+      "theme": "Counters",
+      "color": "WBG",
+      "creature": 34,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "felothar": {
+      "name": "Felothar",
+      "theme": "Counters",
+      "color": "WBG",
+      "creature": 35,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "ureni": {
+      "name": "Ureni",
+      "theme": "Dragons",
+      "color": "GUR",
+      "creature": 32,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "miirym": {
+      "name": "Miirym",
+      "theme": "Dragons",
+      "color": "GUR",
+      "creature": 30,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "eshki": {
+      "name": "Eshki",
+      "theme": "Power",
+      "color": "GUR",
+      "creature": 30,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "eshkit": {
+      "name": "EshkiT",
+      "theme": "Power",
+      "color": "GUR",
+      "creature": 37,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "prosper": {
+      "name": "Prosper",
+      "theme": "Exile",
+      "color": "BR",
+      "creature": 25,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "zuko": {
+      "name": "Zuko",
+      "theme": "Exile",
+      "color": "RWB",
+      "creature": 27,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "korvold": {
+      "name": "Korvold",
+      "theme": "Exile",
+      "color": "BRG",
+      "creature": 30,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "alela": {
+      "name": "Alela",
+      "theme": "Faeries",
+      "color": "WUB",
+      "creature": 20,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "alelac": {
+      "name": "AlelaC",
+      "theme": "Faeries",
+      "color": "UB",
+      "creature": 25,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "baylen": {
+      "name": "Baylen",
+      "theme": "Tokens",
+      "color": "RGW",
+      "creature": 30,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "brigid": {
+      "name": "Brigid",
+      "theme": "Tokens",
+      "color": "GW",
+      "creature": 32,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "tophh": {
+      "name": "TophH",
+      "theme": "Lands",
+      "color": "RG",
+      "creature": 25,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "tophf": {
+      "name": "TophF",
+      "theme": "Lands",
+      "color": "RGW",
+      "creature": 25,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "omnath": {
+      "name": "Omnath",
+      "theme": "Lands",
+      "color": "RG",
+      "creature": 24,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "hearthhull": {
+      "name": "Hearthhull",
+      "theme": "Lands",
+      "color": "BRG",
+      "creature": 31,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "nahiri": {
+      "name": "Nahiri",
+      "theme": "Equipment",
+      "color": "RW",
+      "creature": 20,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "syrgwyn": {
+      "name": "SyrGwyn",
+      "theme": "Equipment",
+      "color": "RWB",
+      "creature": 24,
+      "commPriority": 3,
+      "deckMultiplier": 1
+    },
+    "satoru": {
+      "name": "Satoru",
+      "theme": "Ninjutsu",
+      "color": "UB",
+      "creature": 36,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "ranar": {
+      "name": "Ranar",
+      "theme": "Blink",
+      "color": "WU",
+      "creature": 29,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "lathril": {
+      "name": "Lathril",
+      "theme": "Elves",
+      "color": "BG",
+      "creature": 36,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "hakbal": {
+      "name": "Hakbal",
+      "theme": "Merfolk",
+      "color": "GU",
+      "creature": 35,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "kyler": {
+      "name": "Kyler",
+      "theme": "Humans",
+      "color": "GW",
+      "creature": 35,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "bello": {
+      "name": "Bello",
+      "theme": "Enchantments",
+      "color": "RG",
+      "creature": 18,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    },
+    "burakos": {
+      "name": "Burakos",
+      "theme": "Party",
+      "color": "WB",
+      "creature": 37,
+      "commPriority": 1,
+      "deckMultiplier": 1
+    }
+  },
+  "themes": {
+    "reanimate": {
+      "name": "Reanimate",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 38,
+      "primarySharedOnly": false
+    },
+    "aggro": {
+      "name": "Aggro",
+      "sharedInclusionMin": 25,
+      "totalLandCount": 37,
+      "primarySharedOnly": false
+    },
+    "flurry": {
+      "name": "Flurry",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 36,
+      "primarySharedOnly": false
+    },
+    "dragons": {
+      "name": "Dragons",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 38,
+      "primarySharedOnly": false
+    },
+    "faeries": {
+      "name": "Faeries",
+      "sharedInclusionMin": 33,
+      "totalLandCount": 36,
+      "primarySharedOnly": true
+    },
+    "counters": {
+      "name": "Counters",
+      "sharedInclusionMin": 33,
+      "totalLandCount": 37,
+      "primarySharedOnly": true
+    },
+    "tokens": {
+      "name": "Tokens",
+      "sharedInclusionMin": 33,
+      "totalLandCount": 36,
+      "primarySharedOnly": true
+    },
+    "exile": {
+      "name": "Exile",
+      "sharedInclusionMin": 33,
+      "totalLandCount": 37,
+      "primarySharedOnly": true
+    },
+    "power": {
+      "name": "Power",
+      "sharedInclusionMin": 33,
+      "totalLandCount": 36,
+      "primarySharedOnly": true
+    },
+    "ninjutsu": {
+      "name": "Ninjutsu",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 36,
+      "primarySharedOnly": false
+    },
+    "lands": {
+      "name": "Lands",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 38,
+      "primarySharedOnly": false
+    },
+    "equipment": {
+      "name": "Equipment",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 37,
+      "primarySharedOnly": false
+    },
+    "blink": {
+      "name": "Blink",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 37,
+      "primarySharedOnly": false
+    },
+    "elves": {
+      "name": "Elves",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 36,
+      "primarySharedOnly": false
+    },
+    "merfolk": {
+      "name": "Merfolk",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 37,
+      "primarySharedOnly": false
+    },
+    "humans": {
+      "name": "Humans",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 37,
+      "primarySharedOnly": false
+    },
+    "enchantments": {
+      "name": "Enchantments",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 38,
+      "primarySharedOnly": false
+    },
+    "party": {
+      "name": "Party",
+      "sharedInclusionMin": 20,
+      "totalLandCount": 37,
+      "primarySharedOnly": false
+    }
+  },
+  "commanderSets": {
+    "new_primary_4": {
+      "Flurry": {
+        "primary": "Stella"
+      },
+      "Counters": {
+        "primary": "Betor"
+      },
+      "Merfolk": {
+        "primary": "Hakbal"
+      },
+      "Exile": {
+        "primary": "Zuko"
+      }
+    },
+    "new_primary_5": {
+      "Flurry": {
+        "primary": "Stella"
+      },
+      "Counters": {
+        "primary": "Betor"
+      },
+      "Merfolk": {
+        "primary": "Hakbal"
+      },
+      "Exile": {
+        "primary": "Zuko"
+      },
+      "Enchantments": {
+        "primary": "Bello"
+      }
+    },
+    "new_primary_wedges": {
+      "Flurry": {
+        "primary": "Kykar"
+      },
+      "Counters": {
+        "primary": "Betor"
+      },
+      "Reanimate": {
+        "primary": "Teval"
+      },
+      "Aggro": {
+        "primary": "Isshin"
+      },
+      "Dragons": {
+        "primary": "Ureni"
+      }
+    },
+    "primary_4": {
+      "Reanimate": {
+        "primary": "Teval",
+        "secondary": "Sidisi"
+      },
+      "Aggro": {
+        "primary": "Isshin",
+        "secondary": "Zurgo"
+      },
+      "Flurry": {
+        "primary": "Kykar",
+        "secondary": "Stella"
+      },
+      "Counters": {
+        "primary": "Betor",
+        "secondary": "Felothar"
+      }
+    },
+    "primary_5": {
+      "Reanimate": {
+        "primary": "Teval",
+        "secondary": "Sidisi"
+      },
+      "Aggro": {
+        "primary": "Isshin",
+        "secondary": "Zurgo"
+      },
+      "Flurry": {
+        "primary": "Kykar",
+        "secondary": "Stella"
+      },
+      "Dragons": {
+        "primary": "Ureni",
+        "secondary": "Miirym"
+      },
+      "Counters": {
+        "primary": "Betor",
+        "secondary": "Felothar"
+      }
+    },
+    "secondary": {
+      "Faeries": {
+        "primary": "AlelaC",
+        "secondary": "Alela"
+      },
+      "Elves": {
+        "primary": "Lathril"
+      },
+      "Merfolk": {
+        "primary": "Hakbal"
+      },
+      "Exile": {
+        "primary": "Zuko",
+        "secondary": "Prosper"
+      },
+      "Lands": {
+        "primary": "TophF",
+        "secondary": "TophH"
+      }
+    },
+    "secondary2": {
+      "Faeries": {
+        "primary": "AlelaC",
+        "secondary": "Alela"
+      },
+      "Elves": {
+        "primary": "Lathril"
+      },
+      "Merfolk": {
+        "primary": "Hakbal"
+      },
+      "Exile": {
+        "primary": "Prosper",
+        "secondary": "Zuko"
+      },
+      "Enchantments": {
+        "primary": "Bello"
+      },
+      "Party": {
+        "primary": "Burakos"
+      }
+    }
+  },
+  "outCommanderList": {
+    "single": [
+      "Betor"
+    ],
+    "new_primary_4": [
+      "Stella",
+      "Betor",
+      "Hakbal",
+      "Zuko"
+    ],
+    "new_primary_5": [
+      "Bello"
+    ],
+    "new_primary_wedges": [
+      "Teval",
+      "Isshin",
+      "Ureni"
+    ],
+    "primary_4": [
+      "Teval",
+      "Isshin",
+      "Kykar",
+      "Betor"
+    ],
+    "primary_5": [
+      "Ureni"
+    ],
+    "secondary_tribal": [
+      "AlelaC",
+      "Lathril",
+      "Hakbal"
+    ],
+    "secondary_ub": [
+      "Zuko",
+      "TophF"
+    ],
+    "secondary2": [
+      "Bello",
+      "Burakos"
+    ]
+  },
+  "defaultConfigurations": [
+    {
+      "selectedGroup": "new_primary_4",
+      "selectedCommander": "new_primary_4"
+    },
+    {
+      "selectedGroup": "new_primary_5",
+      "selectedCommander": "new_primary_5"
+    },
+    {
+      "selectedGroup": "new_primary_wedges",
+      "selectedCommander": "new_primary_wedges"
+    }
+  ]
+}
