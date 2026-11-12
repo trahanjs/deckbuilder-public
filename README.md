@@ -42,7 +42,7 @@ It then:
 
 ```text
 .
-├── cubeAndDeckBuilder          # main entry point
+├── cubeAndDeckBuilder.js          # main entry point
 ├── builderConfig.js           # deck/theme configuration
 ├── services/                  # build logic and CSV processing
 ├── shared/                   # shared utility helpers
