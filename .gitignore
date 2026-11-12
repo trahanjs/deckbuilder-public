@@ -11,7 +11,6 @@ Thumbs.db
 *.log
 
 # generated outputs
-outputs/*.csv
 outputs/*.json
 !outputs/.gitkeep
 
