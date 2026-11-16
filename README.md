@@ -1,8 +1,6 @@
 # Cube and Deck Builder
 
-A lightweight Magic: The Gathering deck-building and collection-analysis utility designed to turn a local card inventory and a commander/theme input file into usable deck and cube output data.
-
-This project was built as a portfolio-ready example of a CSV-driven builder: it reads a collection, normalizes names, applies commander and theme rules, and writes output files that can be reviewed or used as a starting point for deck construction.
+A lightweight Magic: The Gathering deck-building and collection-analysis utility designed to turn a local card inventory and a commander/theme input file into usable deck and cube output data. It reads a collection, normalizes names, applies commander and theme rules, and writes output files that can be reviewed or used as a starting point for deck construction.
 
 ## What it does
 
@@ -111,7 +109,6 @@ These values are optional and the default sample configuration will work for a q
 ## Notes
 
 - This is a local, CSV-first project rather than a full web application.
-- The builder is designed for experimentation and portfolio presentation.
 - The sample dataset is intentionally limited, so output may look less complete than a full personal collection build.
 
 ## License
