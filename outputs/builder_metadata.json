@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:49:31.486Z",
+  "generatedAt": "2026-11-16T00:39:33.488Z",
   "commanders": {
     "teval": {
       "name": "Teval",
@@ -415,7 +415,7 @@
         "primary": "Zuko"
       }
     },
-    "new_primary_5": {
+    "new_primary_6": {
       "Flurry": {
         "primary": "Stella"
       },
@@ -430,6 +430,12 @@
       },
       "Enchantments": {
         "primary": "Bello"
+      },
+      "Faeries": {
+        "primary": "AlelaC"
+      },
+      "Elves": {
+        "primary": "Lathril"
       }
     },
     "new_primary_wedges": {
@@ -461,6 +467,28 @@
       "Flurry": {
         "primary": "Kykar",
         "secondary": "Stella"
+      },
+      "Counters": {
+        "primary": "Betor",
+        "secondary": "Felothar"
+      }
+    },
+    "new_primary_5": {
+      "Reanimate": {
+        "primary": "Teval",
+        "secondary": "Sidisi"
+      },
+      "Aggro": {
+        "primary": "Isshin",
+        "secondary": "Zurgo"
+      },
+      "Flurry": {
+        "primary": "Kykar",
+        "secondary": "Stella"
+      },
+      "Dragons": {
+        "primary": "Ureni",
+        "secondary": "Miirym"
       },
       "Counters": {
         "primary": "Betor",
@@ -533,9 +561,6 @@
     }
   },
   "outCommanderList": {
-    "single": [
-      "Betor"
-    ],
     "new_primary_4": [
       "Stella",
       "Betor",
@@ -549,28 +574,6 @@
       "Teval",
       "Isshin",
       "Ureni"
-    ],
-    "primary_4": [
-      "Teval",
-      "Isshin",
-      "Kykar",
-      "Betor"
-    ],
-    "primary_5": [
-      "Ureni"
-    ],
-    "secondary_tribal": [
-      "AlelaC",
-      "Lathril",
-      "Hakbal"
-    ],
-    "secondary_ub": [
-      "Zuko",
-      "TophF"
-    ],
-    "secondary2": [
-      "Bello",
-      "Burakos"
     ]
   },
   "defaultConfigurations": [

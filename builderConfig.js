@@ -102,12 +102,14 @@ const BUILDER_DEFAULT_COMMANDER_SETS = {
     Merfolk: { primary: 'Hakbal' },
     Exile: { primary: 'Zuko' }
   },
-  new_primary_5: {
+  new_primary_6: {
     Flurry: { primary: 'Stella' },
     Counters: { primary: 'Betor' },
     Merfolk: { primary: 'Hakbal' },
     Exile: { primary: 'Zuko' },
-    Enchantments: { primary: 'Bello' }
+    Enchantments: { primary: 'Bello' },
+    Faeries: { primary: 'AlelaC' },
+    Elves: { primary: 'Lathril' },
   },
   new_primary_wedges: {
     Flurry: { primary: 'Kykar' },
@@ -120,6 +122,13 @@ const BUILDER_DEFAULT_COMMANDER_SETS = {
     Reanimate: { primary: 'Teval', secondary: 'Sidisi' },
     Aggro: { primary: 'Isshin', secondary: 'Zurgo' },
     Flurry: { primary: 'Kykar', secondary: 'Stella' },
+    Counters: { primary: 'Betor', secondary: 'Felothar' }
+  },
+  new_primary_5: {
+    Reanimate: { primary: 'Teval', secondary: 'Sidisi' },
+    Aggro: { primary: 'Isshin', secondary: 'Zurgo' },
+    Flurry: { primary: 'Kykar', secondary: 'Stella' },
+    Dragons: { primary: 'Ureni', secondary: 'Miirym' },
     Counters: { primary: 'Betor', secondary: 'Felothar' }
   },
   primary_5: {
@@ -147,20 +156,23 @@ const BUILDER_DEFAULT_COMMANDER_SETS = {
 };
 
 const BUILDER_DEFAULT_OUT_COMMANDER_LIST = {
-  single: ['Betor'],
+  single: ['Isshin'],
   new_primary_4: ['Stella', 'Betor', 'Hakbal', 'Zuko'],
   new_primary_5: ['Bello'],
+  new_primary_6: ['Bello', 'AlelaC', 'Lathril'],
   new_primary_wedges: ['Teval', 'Isshin', 'Ureni'],
   primary_4: ['Teval', 'Isshin', 'Kykar', 'Betor'],
-  primary_5: ['Ureni'],
+  primary_5: ['Bello'],
   secondary_tribal: ['AlelaC', 'Lathril', 'Hakbal'],
   secondary_ub: ['Zuko', 'TophF'],
   secondary2: ['Bello', 'Burakos']
 };
 
 const BUILDER_DEFAULT_CONFIGURATION_SETS = [
+  //{ selectedGroup: 'new_primary_wedges', selectedCommander: 'single' }
   { selectedGroup: 'new_primary_4', selectedCommander: 'new_primary_4' },
   { selectedGroup: 'new_primary_5', selectedCommander: 'new_primary_5' },
+  { selectedGroup: 'new_primary_6', selectedCommander: 'new_primary_6' },
   { selectedGroup: 'new_primary_wedges', selectedCommander: 'new_primary_wedges' }
 ];
 

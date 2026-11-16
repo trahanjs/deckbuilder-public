@@ -1,5 +1,7 @@
-﻿// Run from the repo root:
-// node cubeAndDeckBuilder
+﻿// run & "C:\Program Files\nodejs\node.exe" .\cubeAndDeckBuilder
+
+// on web run cd "C:\Users\frodo\code\web"
+// node server.js
 
 // @ts-nocheck
 'use strict';

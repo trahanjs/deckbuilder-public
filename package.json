@@ -1,9 +1,11 @@
 {
-  "name": "cube-and-deck-builder-demo",
-  "version": "1.0.0",
-  "private": true,
   "scripts": {
-    "build:decks": "node cubeAndDeckBuilder"
+    "audit:batch-types": "node cardDataBase/audit_batch_types.js",
+    "audit:missing-cards": "node cardDataBase/audit_missing_cards.js",
+    "fill:batch-types": "node cardDataBase/fill_batch_types_from_scryfall.js",
+    "build:decks": "node cubeAndDeckBuilder",
+    "test:snapshots": "node tests/deck_builder_snapshot.test.js",
+    "test:builder": "node tests/shared_name_normalize.test.js && node tests/shared_csv_utils.test.js && node tests/deck_builder_core_service.test.js && node tests/deck_builder_snapshot.test.js"
   },
   "dependencies": {
     "csv-parse": "^7.0.1",

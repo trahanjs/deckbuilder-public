@@ -1,20 +1,644 @@
 name,set,collector number,status,finish,maybeboard,tags
-Command Tower,clb,907,Owned,Non-foil,FALSE,Teval
-Woodland Cemetery,grn,236,Owned,Non-foil,FALSE,Teval
-Overgrown Tomb,grn,241,Owned,Non-foil,FALSE,Teval
-Bojuka Bog,2x2,151,Owned,Non-foil,FALSE,Teval
-"Teval, the Balanced Scale",tdm,1,Owned,Non-foil,FALSE,Teval
-Sol Ring,2x2,1,Owned,Non-foil,FALSE,Teval
-Life from the Loam,fdn,12,Owned,Non-foil,FALSE,Teval
+Command Tower,soc,107,Owned,Non-foil,FALSE,Stella
+Command Tower,soc,107,Owned,Non-foil,FALSE,Hakbal
+Command Tower,soc,107,Owned,Non-foil,FALSE,Betor
+Command Tower,soc,107,Owned,Non-foil,FALSE,Zuko
+Hinterland Harbor,dom,240,Owned,Non-foil,FALSE,Hakbal
+Shivan Reef,ori,255,Owned,Non-foil,FALSE,Stella
+Reliquary Tower,m19,254,Owned,Non-foil,FALSE,Hakbal
+Sulfur Falls,lcc,247,Owned,Non-foil,FALSE,Stella
+Path of Ancestry,clb,907,Owned,Non-foil,FALSE,Hakbal
+Caves of Koilos,dmu,244,Owned,Non-foil,FALSE,Betor
+Llanowar Wastes,bro,264,Owned,Non-foil,FALSE,Betor
+Secluded Courtyard,spg,275,Owned,Non-foil,FALSE,Hakbal
+Overgrown Tomb,ecl,253,Owned,Non-foil,FALSE,Betor
+Temple Garden,ecl,127,Owned,Non-foil,FALSE,Betor
+Unclaimed Territory,mic,187,Owned,Non-foil,FALSE,Hakbal
+Cascade Bluffs,tdc,345,Owned,Non-foil,FALSE,Stella
+Brushland,bro,259,Owned,Non-foil,FALSE,Betor
+Karn's Bastion,war,248,Owned,Non-foil,FALSE,Hakbal
+Exotic Orchard,blc,131,Owned,Non-foil,FALSE,Stella
+Steam Vents,ecl,257,Owned,Non-foil,FALSE,Stella
+Reliquary Tower,m19,254,Owned,Non-foil,FALSE,Stella
+Godless Shrine,eoe,128,Owned,Non-foil,FALSE,Betor
+Rogue's Passage,ori,250,Owned,Non-foil,FALSE,Hakbal
+Simic Growth Chamber,c20,311,Owned,Non-foil,FALSE,Hakbal
+Clifftop Retreat,dom,239,Owned,Non-foil,FALSE,Zuko
+Dreamroot Cascade,sos,262,Owned,Non-foil,FALSE,Hakbal
+Temple of Mystery,m20,255,Owned,Non-foil,FALSE,Hakbal
+Blood Crypt,ecl,125,Owned,Non-foil,FALSE,Zuko
+Exotic Orchard,blc,131,Owned,Non-foil,FALSE,Zuko
+Ferrous Lake,otc,294,Owned,Non-foil,FALSE,Stella
+Exotic Orchard,blc,131,Owned,Non-foil,FALSE,Betor
+Dragonskull Summit,xln,252,Owned,Non-foil,FALSE,Zuko
+Nomad Outpost,tdm,263,Owned,Non-foil,FALSE,Zuko
+Fire Nation Palace,tla,268,Owned,Non-foil,FALSE,Zuko
+Alchemist's Refuge,lcc,318,Owned,Non-foil,FALSE,Hakbal
+Sandsteppe Citadel,tdm,266,Owned,Non-foil,FALSE,Betor
+Temple of Epiphany,m20,253,Owned,Non-foil,FALSE,Stella
+Sacred Foundry,eoe,131,Owned,Non-foil,FALSE,Zuko
+Isolated Chapel,dom,241,Owned,Non-foil,FALSE,Betor
+Woodland Cemetery,otc,248,Owned,Non-foil,FALSE,Betor
+Godless Shrine,eoe,128,Owned,Non-foil,FALSE,Zuko
+Mosswort Bridge,tdc,379,Owned,Non-foil,FALSE,Hakbal
+Isolated Chapel,dom,241,Owned,Non-foil,FALSE,Zuko
+Izzet Boilerworks,c20,283,Owned,Non-foil,FALSE,Stella
+Yavimaya Coast,ori,261,Owned,Non-foil,FALSE,Hakbal
+Battlefield Forge,bro,257,Owned,Non-foil,FALSE,Zuko
+Breeding Pool,eoe,246,Owned,Non-foil,FALSE,Hakbal
+Indatha Triome,iko,248,Owned,Non-foil,FALSE,Betor
+Sundown Pass,sos,266,Owned,Non-foil,FALSE,Zuko
+Cori Mountain Monastery,tdm,252,Owned,Non-foil,FALSE,Zuko
+Sunpetal Grove,xln,257,Owned,Non-foil,FALSE,Betor
+Training Center,cmm,434,Owned,Non-foil,FALSE,Stella
+Rejuvenating Springs,cmm,424,Owned,Non-foil,FALSE,Hakbal
+Stormcarved Coast,sos,265,Owned,Non-foil,FALSE,Stella
+Savai Triome,iko,253,Owned,Non-foil,FALSE,Zuko
+Myriad Landscape,cmm,421,Owned,Non-foil,FALSE,Hakbal
+Flooded Grove,tdc,364,Owned,Non-foil,FALSE,Hakbal
+Bojuka Bog,afc,226,Owned,Non-foil,FALSE,Betor
+Smoldering Marsh,bfz,247,Owned,Non-foil,FALSE,Zuko
+Shattered Sanctum,sos,283,Owned,Non-foil,FALSE,Zuko
+Llanowar Reborn,lcc,341,Owned,Non-foil,FALSE,Hakbal
+Caves of Koilos,dmu,244,Owned,Non-foil,FALSE,Zuko
+Sulfurous Springs,dmu,256,Owned,Non-foil,FALSE,Zuko
+Overgrown Farmland,mid,265,Owned,Non-foil,FALSE,Betor
+Abandoned Air Temple,tla,263,Owned,Non-foil,FALSE,Zuko
+Canopy Vista,bfz,234,Owned,Non-foil,FALSE,Betor
+Spectator Seating,cmm,427,Owned,Non-foil,FALSE,Zuko
+Vault of the Archangel,lcc,367,Owned,Non-foil,FALSE,Betor
+Undergrowth Stadium,cmm,435,Owned,Non-foil,FALSE,Betor
+Luxury Suite,clb,355,Owned,Non-foil,FALSE,Zuko
+Shattered Sanctum,sos,283,Owned,Non-foil,FALSE,Betor
+Deathcap Glade,sos,275,Owned,Non-foil,FALSE,Betor
+Rogue's Passage,ori,250,Owned,Non-foil,FALSE,Zuko
+Windbrisk Heights,tdc,411,Owned,Non-foil,FALSE,Zuko
+Rugged Prairie,tdc,389,Owned,Non-foil,FALSE,Zuko
+City of Brass,2x2,403,Owned,Non-foil,FALSE,Betor
+Temple of the False God,dsc,313,Owned,Non-foil,FALSE,Hakbal
+Path of Ancestry,clb,907,Owned,Non-foil,FALSE,Zuko
+Vault of Champions,cmm,436,Owned,Non-foil,FALSE,Zuko
+Lush Portico,mkm,263,Owned,Non-foil,FALSE,Betor
+Thundering Falls,mkm,269,Owned,Non-foil,FALSE,Stella
+Eclipsed Realms,ecl,263,Owned,Non-foil,FALSE,Hakbal
+Underground Mortuary,mkm,271,Owned,Non-foil,FALSE,Betor
+Bountiful Promenade,clb,348,Owned,Non-foil,FALSE,Betor
+"Otawara, Soaring City",neo,271,Owned,Non-foil,FALSE,Stella
+Cavern of Souls,lci,269,Owned,Non-foil,FALSE,Hakbal
+Shadowy Backstreet,mkm,268,Owned,Non-foil,FALSE,Betor
+Spinerock Knoll,dsc,300,Owned,Non-foil,FALSE,Zuko
+Haunted Ridge,mid,263,Owned,Non-foil,FALSE,Zuko
+Mystic Sanctuary,eld,247,Owned,Non-foil,FALSE,Stella
+Deceptive Landscape,tdc,356,Owned,Non-foil,FALSE,Betor
+Terramorphic Expanse,sos,345,Owned,Non-foil,FALSE,Zuko
+Barkchannel Pathway,khm,251,Owned,Non-foil,FALSE,Hakbal
+Twilight Mire,tdc,409,Owned,Non-foil,FALSE,Betor
+Evolving Wilds,tdm,255,Owned,Non-foil,FALSE,Betor
+Evolving Wilds,tdm,255,Owned,Non-foil,FALSE,Zuko
+Three Tree City,blb,337,Owned,Non-foil,FALSE,Hakbal
+Mistrise Village,tdm,261,Owned,Non-foil,FALSE,Stella
+Graven Cairns,dsc,280,Owned,Non-foil,FALSE,Zuko
+Twists and Turns,lci,217,Owned,Non-foil,FALSE,Hakbal
+Gemstone Caverns,tsr,280,accepted,Non-foil,FALSE,Stella
+Riverglide Pathway,znr,264,Owned,Non-foil,FALSE,Stella
+Murmuring Bosk,dmc,DMC-220,Owned,Non-foil,FALSE,Betor
+"Urborg, Tomb of Yawgmoth",m15,248,Owned,Non-foil,FALSE,Betor
+"Boseiju, Who Endures",neo,266,Owned,Non-foil,FALSE,Hakbal
+Spirebluff Canal,kld,249,Owned,Non-foil,FALSE,Stella
+Hedge Maze,mkm,262,Owned,Non-foil,FALSE,Hakbal
+Scoured Barrens,frf,171,Owned,Non-foil,FALSE,Betor
+"Stella Lee, Wild Card",otc,3,Owned,Non-foil,FALSE,Stella
+"Betor, Ancestor's Voice",tdc,1,Owned,Non-foil,FALSE,Betor
+Hakbal of the Surging Soul,lcc,19,Owned,Non-foil,FALSE,Hakbal
+Fire Lord Zuko,tla,221,Owned,Non-foil,FALSE,Zuko
+"Nicanzil, Current Conductor",lci,306,Owned,Non-foil,FALSE,Hakbal
+Sol Ring,ecc,106,Owned,Non-foil,FALSE,Stella
+Arcane Signet,ecc,105,Owned,Non-foil,FALSE,Stella
+Master of the Pearl Trident,lcc,162,Owned,Non-foil,FALSE,Hakbal
+Svyelun of Sea and Sky,lcc,175,Owned,Non-foil,FALSE,Hakbal
+Herald of Secret Streams,xln,59,Owned,Non-foil,FALSE,Hakbal
+Sol Ring,ecc,106,Owned,Non-foil,FALSE,Hakbal
+Emperor Mihail II,lcc,155,Owned,Non-foil,FALSE,Hakbal
+"Kopala, Warden of Waves",lcc,160,Owned,Non-foil,FALSE,Hakbal
+Merrow Reejerey,lcc,165,Owned,Non-foil,FALSE,Hakbal
+Stonybrook Banneret,lcc,173,Owned,Non-foil,FALSE,Hakbal
+Merfolk Sovereign,lcc,164,Owned,Non-foil,FALSE,Hakbal
+Deeproot Waters,xln,51,Owned,Non-foil,FALSE,Hakbal
+Topography Tracker,lcc,95,Owned,Non-foil,FALSE,Hakbal
+Hardened Scales,wot,55,Owned,Non-foil,FALSE,Hakbal
+Sol Ring,ecc,106,Owned,Non-foil,FALSE,Betor
+Arcane Signet,ecc,105,Owned,Non-foil,FALSE,Zuko
+"Kumena, Tyrant of Orazca",lcc,274,Owned,Non-foil,FALSE,Hakbal
+Sol Ring,ecc,106,Owned,Non-foil,FALSE,Zuko
+Arcane Signet,ecc,105,Owned,Non-foil,FALSE,Hakbal
+Cold-Eyed Selkie,lcc,266,Owned,Non-foil,FALSE,Hakbal
+Seafloor Oracle,rix,51,Owned,Non-foil,FALSE,Hakbal
+Ponder,otc,105,Owned,Non-foil,FALSE,Stella
+Inspiring Call,dtk,191,Owned,Non-foil,FALSE,Hakbal
+Opt,sta,19,Owned,Non-foil,FALSE,Stella
+Deeproot Elite,rix,127,Owned,Non-foil,FALSE,Hakbal
+Mist Dancer,lcc,76,Owned,Non-foil,FALSE,Hakbal
+Singer of Swift Rivers,lcc,98,Owned,Non-foil,FALSE,Hakbal
+Wave Goodbye,lcc,79,Owned,Non-foil,FALSE,Hakbal
+Preordain,soa,107,Owned,Non-foil,FALSE,Stella
+Ripples of Potential,lcc,77,Owned,Non-foil,FALSE,Hakbal
+"Tatyova, Benthic Druid",lcc,290,Owned,Non-foil,FALSE,Hakbal
+"Zegana, Utopian Speaker",rna,214,Owned,Non-foil,FALSE,Hakbal
+Deeproot Pilgrimage,lci,52,Owned,Non-foil,FALSE,Hakbal
+Storm-Kiln Artist,stx,115,Owned,Non-foil,FALSE,Stella
+Arcane Signet,ecc,105,Owned,Non-foil,FALSE,Betor
+Kindred Discovery,wot,22,Owned,Non-foil,FALSE,Hakbal
+Merfolk Mistbinder,rix,164,Owned,Non-foil,FALSE,Hakbal
+Izzet Signet,mm3,223,Owned,Non-foil,FALSE,Stella
+Branching Evolution,lcc,234,Owned,Non-foil,FALSE,Hakbal
+Faithless Looting,dmc,122,Owned,Non-foil,FALSE,Stella
+Beast Within,dsc,80,Owned,Non-foil,FALSE,Hakbal
+Rapid Hybridization,blc,111,Owned,Non-foil,FALSE,Hakbal
+Swords to Plowshares,eoc,31,Owned,Non-foil,FALSE,Betor
+"Laelia, the Blade Reforged",c21,53,Owned,Non-foil,FALSE,Zuko
+Vodalian Hexcatcher,dmu,75,Owned,Non-foil,FALSE,Hakbal
+Thieving Skydiver,znr,85,Owned,Non-foil,FALSE,Hakbal
+Refocus,frf,47,Owned,Non-foil,FALSE,Stella
+Twisted Fealty,woe,154,Owned,Non-foil,FALSE,Stella
+Kiora's Follower,lcc,273,Owned,Non-foil,FALSE,Hakbal
+Anguished Unmaking,soi,242,Owned,Non-foil,FALSE,Betor
+Brainstorm,sta,13,Owned,Non-foil,FALSE,Stella
+Archmage Emeritus,stx,37,Owned,Non-foil,FALSE,Stella
+Deeproot Historian,lcc,91,Owned,Non-foil,FALSE,Hakbal
+"Lathiel, the Bounteous Dawn",mul,50,Owned,Non-foil,FALSE,Betor
+Pongify,soa,62,Owned,Non-foil,FALSE,Stella
+"Zuko, Exiled Prince",tla,163,Owned,Non-foil,FALSE,Zuko
+Serum Visions,otc,112,Owned,Non-foil,FALSE,Stella
+Benthic Biomancer,rna,32,Owned,Non-foil,FALSE,Hakbal
+"Prosper, Tome-Bound",sld,2,Owned,Non-foil,FALSE,Zuko
+Lord of Atlantis,spg,1,Owned,Non-foil,FALSE,Hakbal
+The Last Agni Kai,tla,144,Owned,Non-foil,FALSE,Zuko
+Frantic Search,dmr,51,Owned,Non-foil,FALSE,Stella
+Realmwalker,cmm,909,Owned,Non-foil,FALSE,Hakbal
+Leyline Tyrant,tdc,221,Owned,Non-foil,FALSE,Zuko
+"Etali, Primal Storm",rix,100,Owned,Non-foil,FALSE,Zuko
+Expressive Iteration,soa,186,Owned,Non-foil,FALSE,Stella
+Talisman of Creativity,soc,330,Owned,Non-foil,FALSE,Stella
+"Electro, Assaulting Battery",spm,76,accepted,Non-foil,FALSE,Zuko
+"Ozai, the Phoenix King",tla,235,Owned,Non-foil,FALSE,Zuko
+Snap,dmr,66,Owned,Non-foil,FALSE,Stella
+Swords to Plowshares,eoc,31,Owned,Non-foil,FALSE,Zuko
+Doom Whisperer,grn,69,Owned,Non-foil,FALSE,Betor
+Rhox Faithmender,tdc,128,Owned,Non-foil,FALSE,Betor
+An Offer You Can't Refuse,blc,170,Owned,Non-foil,FALSE,Stella
+Black Market Connections,lcc,181,Owned,Non-foil,FALSE,Betor
+Growth Spiral,sld,61,Owned,Non-foil,FALSE,Hakbal
+Arcane Denial,otc,89,Owned,Non-foil,FALSE,Stella
+Sakura-Tribe Elder,tdc,832,Owned,Non-foil,FALSE,Betor
+Children of Korlis,tsr,14,Owned,Non-foil,FALSE,Betor
+Beledros Witherbloom,stx,163,Owned,Non-foil,FALSE,Betor
+Goblin Electromancer,tdc,99,Owned,Non-foil,FALSE,Stella
+Toxic Deluge,soc,191,Owned,Non-foil,FALSE,Betor
+Metallic Mimic,lcc,308,Owned,Non-foil,FALSE,Hakbal
+Vandalblast,voc,152,Owned,Non-foil,FALSE,Stella
+Windfall,otc,123,Owned,Non-foil,FALSE,Stella
+Counterspell,sld,45,Owned,Non-foil,FALSE,Hakbal
+"Appa, Steadfast Guardian",tla,10,Owned,Non-foil,FALSE,Zuko
+Reflections of Littjara,woc,106,Owned,Non-foil,FALSE,Hakbal
+"Veyran, Voice of Duality",c21,3,Owned,Non-foil,FALSE,Stella
+Swiftfoot Boots,clb,226,Owned,Non-foil,FALSE,Hakbal
+Kodama's Reach,dmc,245,Owned,Non-foil,FALSE,Hakbal
+The Legend of Roku,tla,145,Owned,Non-foil,FALSE,Zuko
+Simic Ascendancy,rna,207,Owned,Non-foil,FALSE,Hakbal
+Firebender Ascension,tla,137,Owned,Non-foil,FALSE,Zuko
+Redirect Lightning,tla,151,Owned,Non-foil,FALSE,Zuko
+Consider,mid,44,Owned,Non-foil,FALSE,Stella
+Avatar's Wrath,tla,12,Owned,Non-foil,FALSE,Zuko
+Commune with Lava,dtk,131,Owned,Non-foil,FALSE,Zuko
+"Moseo, Vein's New Dean",sos,91,Owned,Non-foil,FALSE,Betor
+Guttersnipe,sld,145,Owned,Non-foil,FALSE,Stella
+Soul Warden,mm3,24,Owned,Non-foil,FALSE,Betor
+"Iroh, Dragon of the West",tle,119,accepted,Non-foil,FALSE,Zuko
+Chaos Warp,blc,115,Owned,Non-foil,FALSE,Stella
+Reanimate,mkc,137,Owned,Non-foil,FALSE,Betor
+Dream Devourer,khm,90,Owned,Non-foil,FALSE,Zuko
+Aetherize,lcc,142,Owned,Non-foil,FALSE,Hakbal
+Priest of Fell Rites,mh2,328,Owned,Non-foil,FALSE,Betor
+Thunderclap Drake,otc,17,Owned,Non-foil,FALSE,Stella
+Galvanic Iteration,mid,224,Owned,Non-foil,FALSE,Stella
+Tishana's Tidebinder,lci,81,Owned,Non-foil,FALSE,Hakbal
+Lightning Bolt,clb,187,Owned,Non-foil,FALSE,Stella
+"Vito, Thorn of the Dusk Rose",m21,127,Owned,Non-foil,FALSE,Betor
+Shore Up,blb,69,Owned,Non-foil,FALSE,Stella
+Sozin's Comet,tla,154,Owned,Non-foil,FALSE,Zuko
+Counterspell,sld,45,Owned,Non-foil,FALSE,Stella
+Path to Exile,blc,147,Owned,Non-foil,FALSE,Zuko
+Merfolk Skydiver,war,205,Owned,Non-foil,FALSE,Hakbal
+Solve the Equation,stx,54,Owned,Non-foil,FALSE,Stella
+Dramatic Reversal,kld,44,Owned,Non-foil,FALSE,Stella
+Mizzix's Mastery,rvr,118,Owned,Non-foil,FALSE,Stella
+Firebending Student,tla,139,Owned,Non-foil,FALSE,Zuko
+Professional Face-Breaker,j22,581,Owned,Non-foil,FALSE,Zuko
+"Cait Sith, Fortune Teller",fic,54,Owned,Non-foil,FALSE,Zuko
+Darkstar Augur,blb,311,Owned,Non-foil,FALSE,Betor
+Big Score,soa,155,Owned,Non-foil,FALSE,Stella
+Merfolk Cave-Diver,lci,65,Owned,Non-foil,FALSE,Hakbal
+Tavern Brawler,clb,200,Owned,Non-foil,FALSE,Zuko
+Explore,blc,216,Owned,Non-foil,FALSE,Hakbal
+Expedite,ogw,108,Owned,Non-foil,FALSE,Stella
+Simic Signet,mm3,227,Owned,Non-foil,FALSE,Hakbal
+"Inti, Seneschal of the Sun",lci,156,Owned,Non-foil,FALSE,Zuko
+Phyrexian Arena,fdn,180,Owned,Non-foil,FALSE,Betor
+Essence Warden,ltc,242,Owned,Non-foil,FALSE,Betor
+"Tishana, Voice of Thunder",lcc,291,Owned,Non-foil,FALSE,Hakbal
+Staff of Compleation,tdc,326,Owned,Non-foil,FALSE,Betor
+Talisman of Conviction,tdc,329,Owned,Non-foil,FALSE,Zuko
+"Pia Nalaar, Consul of Revival",mat,42,Owned,Non-foil,FALSE,Zuko
+Tributary Instructor,lcc,96,Owned,Non-foil,FALSE,Hakbal
+Kami of Whispered Hopes,mom,196,Owned,Non-foil,FALSE,Betor
+Farseek,sld,119,Owned,Non-foil,FALSE,Betor
+"Niv-Mizzet, Ghost Counsel",frc,10,accepted,Non-foil,FALSE,Betor
+Fated Firepower,tla,132,Owned,Non-foil,FALSE,Zuko
+Dark Confidant,rvr,94,Owned,Non-foil,FALSE,Betor
+Swiftfoot Boots,clb,226,Owned,Non-foil,FALSE,Zuko
+Evolution Sage,war,159,Owned,Non-foil,FALSE,Hakbal
+Strike It Rich,mh2,143,Owned,Non-foil,FALSE,Stella
+Scheming Silvertongue,sos,99,Owned,Non-foil,FALSE,Betor
+Prime Speaker Zegana,lcc,278,Owned,Non-foil,FALSE,Hakbal
+Fellwar Stone,c17,210,Owned,Non-foil,FALSE,Stella
+"Niv-Mizzet, Parun",rvr,438,Owned,Non-foil,FALSE,Stella
+"Celestine, the Living Saint",40k,10,accepted,Non-foil,FALSE,Betor
+"Isshin, Two Heavens as One",neo,224,Owned,Non-foil,FALSE,Zuko
+Haywire Mite,bro,199,Owned,Non-foil,FALSE,Betor
+Improvisation Capstone,sos,120,Owned,Non-foil,FALSE,Zuko
+Path to Exile,blc,147,Owned,Non-foil,FALSE,Betor
+Electrostatic Field,grn,97,Owned,Non-foil,FALSE,Stella
+Simian Spirit Guide,tsr,190,accepted,Non-foil,FALSE,Stella
+Talisman of Resilience,dsc,255,Owned,Non-foil,FALSE,Betor
+Personal Tutor,cmm,110,accepted,Non-foil,FALSE,Stella
+"Talrand, Sky Summoner",otc,116,Owned,Non-foil,FALSE,Stella
+Lock and Load,otc,15,Owned,Non-foil,FALSE,Stella
+Enduring Tenacity,dsk,95,Owned,Non-foil,FALSE,Betor
+Talisman of Indulgence,sld,254,Owned,Non-foil,FALSE,Zuko
+Talisman of Hierarchy,tdc,331,Owned,Non-foil,FALSE,Betor
+Young Pyromancer,tdc,95,Owned,Non-foil,FALSE,Stella
+Mystic Remora,sld,406,Owned,Non-foil,FALSE,Stella
+Borne Upon a Wind,ltr,44,Owned,Non-foil,FALSE,Stella
+Cultivate,lcc,235,Owned,Non-foil,FALSE,Betor
+Flashback,sos,115,Owned,Non-foil,FALSE,Stella
+Heroic Intervention,afc,188,Owned,Non-foil,FALSE,Hakbal
+Exemplar of Light,fdn,11,Owned,Non-foil,FALSE,Betor
+Light Up the Stage,rna,107,Owned,Non-foil,FALSE,Zuko
+Feed the Swarm,soa,102,Owned,Non-foil,FALSE,Betor
+Vedalken Orrery,2x2,317,Owned,Non-foil,FALSE,Zuko
+Crimson Wisps,j25,533,Owned,Non-foil,FALSE,Stella
+Electrodominance,rna,99,Owned,Non-foil,FALSE,Zuko
+Birds of Paradise,blc,133,Owned,Non-foil,FALSE,Betor
+Haughty Djinn,dmu,52,Owned,Non-foil,FALSE,Stella
+Kwia Vigorbloom,fra,140,accepted,Non-foil,FALSE,Betor
+Third Path Iconoclast,bro,223,Owned,Non-foil,FALSE,Stella
+Delayed Blast Fireball,clb,676,Owned,Non-foil,FALSE,Zuko
+Swan Song,eoc,197,Owned,Non-foil,FALSE,Stella
+Hellkite Charger,cmm,232,Owned,Non-foil,FALSE,Zuko
+Wild-Magic Sorcerer,afc,36,Owned,Non-foil,FALSE,Zuko
+Finale of Promise,war,127,Owned,Non-foil,FALSE,Stella
+Bonehoard Dracosaur,lci,134,Owned,Non-foil,FALSE,Zuko
+Sylvan Library,dmr,179,accepted,Non-foil,FALSE,Betor
+Propaganda,otc,108,Owned,Non-foil,FALSE,Stella
+Dragonlord Dromoka,tdc,286,Owned,Non-foil,FALSE,Betor
+Nature's Lore,dmr,170,Owned,Non-foil,FALSE,Betor
+Fire Lord Ozai,tle,104,accepted,Non-foil,FALSE,Zuko
+Talisman of Hierarchy,tdc,331,Owned,Non-foil,FALSE,Zuko
+Grave Researcher,sos,85,Owned,Non-foil,FALSE,Betor
+Hexing Squelcher,ecl,317,Owned,Non-foil,FALSE,Stella
+Think Twice,inr,92,Owned,Non-foil,FALSE,Stella
+Raise the Palisade,ltc,278,Owned,Non-foil,FALSE,Hakbal
+Haste Magic,fin,140,Owned,Non-foil,FALSE,Zuko
+Abzan Falconer,ktk,2,Owned,Non-foil,FALSE,Zuko
+Quandrix Command,stx,217,Owned,Non-foil,FALSE,Hakbal
+Ephemerate,sta,5,Owned,Non-foil,FALSE,Zuko
+Heroic Intervention,afc,188,Owned,Non-foil,FALSE,Betor
+Selfless Spirit,emn,40,Owned,Non-foil,FALSE,Betor
+Commander Liara Portyr,clb,270,Owned,Non-foil,FALSE,Zuko
+Airbender Ascension,tla,6,Owned,Non-foil,FALSE,Zuko
+"Vilis, Broker of Blood",j25,70,Owned,Non-foil,FALSE,Betor
+Elves of Deep Shadow,plst,GK1-56,Owned,Non-foil,FALSE,Betor
+Talisman of Unity,mkc,244,Owned,Non-foil,FALSE,Betor
+Deflecting Swat,sld,1552,Owned,Non-foil,FALSE,Stella
+Bloodthirsty Conqueror,fdn,58,Owned,Non-foil,FALSE,Betor
+"Kutzil, Malamet Exemplar",lci,232,Owned,Non-foil,FALSE,Betor
+Assassin's Trophy,mkm,187,Owned,Non-foil,FALSE,Betor
+Chaos Warp,blc,115,Owned,Non-foil,FALSE,Zuko
+Blasphemous Act,blc,143,Owned,Non-foil,FALSE,Zuko
+"Dragonhawk, Fate's Tempest",blb,132,Owned,Non-foil,FALSE,Zuko
+Ravenform,khm,72,Owned,Non-foil,FALSE,Hakbal
+"Heliod, Sun-Crowned",cmm,29,Owned,Non-foil,FALSE,Betor
+Elemental Eruption,otc,27,Owned,Non-foil,FALSE,Stella
+Professor Dellian Fel,sos,214,Owned,Non-foil,FALSE,Betor
+Sun Warriors,tla,244,Owned,Non-foil,FALSE,Zuko
+Eerie Ultimatum,spg,104,Owned,Non-foil,FALSE,Betor
+Archangel of Thune,2xm,5,accepted,Non-foil,FALSE,Betor
+Curse of the Swine,khc,37,Owned,Non-foil,FALSE,Hakbal
+"Avatar Roku, Firebender",tle,112,accepted,Non-foil,FALSE,Zuko
+Blazing Crescendo,one,123,Owned,Non-foil,FALSE,Zuko
+Ruinous Intrusion,mic,28,Owned,Non-foil,FALSE,Hakbal
+Forger's Foundry,otc,14,accepted,Non-foil,FALSE,Stella
+Opera Love Song,fin,147,Owned,Non-foil,FALSE,Zuko
+Twilight Diviner,ecl,122,Owned,Non-foil,FALSE,Betor
+Dig Through Time,ktk,36,Owned,Non-foil,FALSE,Stella
+Lightning Greaves,sld,114,Owned,Non-foil,FALSE,Zuko
+Airbender's Reversal,tla,7,Owned,Non-foil,FALSE,Zuko
+Rodolf Duskbringer,j25,482,Owned,Non-foil,FALSE,Betor
+Brain Freeze,soa,13,accepted,Non-foil,FALSE,Stella
+Negate,dmu,58,Owned,Non-foil,FALSE,Stella
+Three Visits,fic,209,Owned,Non-foil,FALSE,Betor
+Terrasymbiosis,eoe,210,Owned,Non-foil,FALSE,Betor
+Bygone Marvels,lcc,89,Owned,Non-foil,FALSE,Hakbal
+Great Train Heist,otj,125,Owned,Non-foil,FALSE,Zuko
+Bitter Triumph,lci,91,Owned,Non-foil,FALSE,Betor
+Ruinous Ultimatum,spg,108,Owned,Non-foil,FALSE,Zuko
+Authority of the Consuls,kld,5,Owned,Non-foil,FALSE,Betor
+Infernal Grasp,dsc,143,Owned,Non-foil,FALSE,Betor
+Airbending Lesson,tla,8,Owned,Non-foil,FALSE,Zuko
+Comet Storm,cmr,411,Owned,Non-foil,FALSE,Zuko
+Quintorius Kand,lci,238,Owned,Non-foil,FALSE,Zuko
+Vicious Rivalry,sos,241,Owned,Non-foil,FALSE,Betor
+Lunar Convocation,blb,223,Owned,Non-foil,FALSE,Betor
+Interdimensional Web Watch,spm,165,Owned,Non-foil,FALSE,Zuko
+Command Tower,soc,107,Owned,Non-foil,FALSE,Ureni
+Command Tower,soc,107,Owned,Non-foil,FALSE,Teval
+Command Tower,soc,107,Owned,Non-foil,FALSE,Isshin
+Haven of the Spirit Dragon,tdc,370,Owned,Non-foil,FALSE,Ureni
+Rootbound Crag,xln,256,Owned,Non-foil,FALSE,Ureni
+Sulfur Falls,lcc,247,Owned,Non-foil,FALSE,Ureni
+Dreamroot Cascade,sos,262,Owned,Non-foil,FALSE,Teval
+Rockfall Vale,mid,266,Owned,Non-foil,FALSE,Ureni
+Exotic Orchard,blc,131,Owned,Non-foil,FALSE,Ureni
+Hinterland Harbor,dom,240,Owned,Non-foil,FALSE,Ureni
+Path of Ancestry,clb,907,Owned,Non-foil,FALSE,Ureni
+Cinder Glade,bfz,235,Owned,Non-foil,FALSE,Ureni
+Woodland Cemetery,otc,248,Owned,Non-foil,FALSE,Teval
+Frontier Bivouac,tdm,256,Owned,Non-foil,FALSE,Ureni
+Exotic Orchard,blc,131,Owned,Non-foil,FALSE,Teval
+Karplusan Forest,dmu,250,Owned,Non-foil,FALSE,Ureni
+Hinterland Harbor,dom,240,Owned,Non-foil,FALSE,Teval
+Shivan Reef,ori,255,Owned,Non-foil,FALSE,Ureni
+Yavimaya Coast,ori,261,Owned,Non-foil,FALSE,Ureni
+Opulent Palace,tdm,264,Owned,Non-foil,FALSE,Teval
+Mosswort Bridge,tdc,379,Owned,Non-foil,FALSE,Ureni
+Temple of the Dragon Queen,afr,260,Owned,Non-foil,FALSE,Ureni
+Nomad Outpost,tdm,263,Owned,Non-foil,FALSE,Isshin
+Overgrown Tomb,ecl,253,Owned,Non-foil,FALSE,Teval
+Sunken Hollow,bfz,249,Owned,Non-foil,FALSE,Teval
+Llanowar Wastes,bro,264,Owned,Non-foil,FALSE,Teval
+Command Beacon,otc,279,Owned,Non-foil,FALSE,Teval
+Clifftop Retreat,dom,239,Owned,Non-foil,FALSE,Isshin
+Flooded Grove,tdc,364,Owned,Non-foil,FALSE,Ureni
+Blood Crypt,ecl,125,Owned,Non-foil,FALSE,Isshin
+Terramorphic Expanse,sos,345,Owned,Non-foil,FALSE,Teval
+Foreboding Landscape,tdc,365,Owned,Non-foil,FALSE,Teval
+Bountiful Landscape,tdc,342,Owned,Non-foil,FALSE,Ureni
+Dragonskull Summit,xln,252,Owned,Non-foil,FALSE,Isshin
+Isolated Chapel,dom,241,Owned,Non-foil,FALSE,Isshin
+Breeding Pool,eoe,246,Owned,Non-foil,FALSE,Teval
+Cephalid Coliseum,tdc,349,Owned,Non-foil,FALSE,Teval
+Watery Grave,eoe,124,Owned,Non-foil,FALSE,Teval
+Steam Vents,ecl,257,Owned,Non-foil,FALSE,Ureni
+Sacred Foundry,eoe,131,Owned,Non-foil,FALSE,Isshin
+Godless Shrine,eoe,128,Owned,Non-foil,FALSE,Isshin
+Maelstrom of the Spirit Dragon,tdm,260,Owned,Non-foil,FALSE,Ureni
+Mossfire Valley,moc,414,Owned,Non-foil,FALSE,Ureni
+Golgari Rot Farm,khc,112,Owned,Non-foil,FALSE,Teval
+Battlefield Forge,bro,257,Owned,Non-foil,FALSE,Isshin
+Memorial to Folly,dom,242,Owned,Non-foil,FALSE,Teval
+Kessig Wolf Run,clb,898,Owned,Non-foil,FALSE,Ureni
+Stomping Ground,eoe,126,Owned,Non-foil,FALSE,Ureni
+Sheltered Thicket,akh,248,Owned,Non-foil,FALSE,Ureni
+Evolving Wilds,tdm,255,Owned,Non-foil,FALSE,Ureni
+Temple of Abandon,thb,244,Owned,Non-foil,FALSE,Ureni
+Sundown Pass,sos,266,Owned,Non-foil,FALSE,Isshin
+Savai Triome,iko,253,Owned,Non-foil,FALSE,Isshin
+Caves of Koilos,dmu,244,Owned,Non-foil,FALSE,Isshin
+Shattered Sanctum,sos,283,Owned,Non-foil,FALSE,Isshin
+Crypt of Agadeem,tdc,354,Owned,Non-foil,FALSE,Teval
+Temple of Mystery,m20,255,Owned,Non-foil,FALSE,Ureni
+Breeding Pool,eoe,246,Owned,Non-foil,FALSE,Ureni
+Drownyard Temple,tdc,359,Owned,Non-foil,FALSE,Teval
+Fetid Pools,akh,243,Owned,Non-foil,FALSE,Teval
+Path of Ancestry,clb,907,Owned,Non-foil,FALSE,Isshin
+Spectator Seating,cmm,427,Owned,Non-foil,FALSE,Isshin
+Zagoth Triome,iko,259,Owned,Non-foil,FALSE,Teval
+Darkwater Catacombs,otc,282,Owned,Non-foil,FALSE,Teval
+Ketria Triome,plst,IKO-250,Owned,Non-foil,FALSE,Ureni
+Myriad Landscape,cmm,421,Owned,Non-foil,FALSE,Teval
+Smoldering Marsh,bfz,247,Owned,Non-foil,FALSE,Isshin
+Vault of Champions,cmm,436,Owned,Non-foil,FALSE,Isshin
+Luxury Suite,clb,355,Owned,Non-foil,FALSE,Isshin
+Temple of Malady,m20,254,Owned,Non-foil,FALSE,Teval
+Terramorphic Expanse,sos,345,Owned,Non-foil,FALSE,Isshin
+Rogue's Passage,ori,250,Owned,Non-foil,FALSE,Isshin
+Underground Mortuary,mkm,271,Owned,Non-foil,FALSE,Teval
+Dreamroot Cascade,sos,262,Owned,Non-foil,FALSE,Ureni
+Haunted Mire,dmu,248,Owned,Non-foil,FALSE,Teval
+Hedge Maze,mkm,262,Owned,Non-foil,FALSE,Teval
+Mistrise Village,tdm,261,Owned,Non-foil,FALSE,Ureni
+Evolving Wilds,tdm,255,Owned,Non-foil,FALSE,Isshin
+Deathcap Glade,sos,275,Owned,Non-foil,FALSE,Teval
+Fabled Passage,blb,246,Owned,Non-foil,FALSE,Teval
+Sulfurous Springs,dmu,256,Owned,Non-foil,FALSE,Isshin
+Stormcarved Coast,sos,265,Owned,Non-foil,FALSE,Ureni
+Cavern of Souls,lci,269,Owned,Non-foil,FALSE,Ureni
+"Boseiju, Who Endures",neo,266,Owned,Non-foil,FALSE,Teval
+Undercity Sewers,mkm,270,Owned,Non-foil,FALSE,Teval
+Rejuvenating Springs,cmm,424,Owned,Non-foil,FALSE,Teval
+Haunted Ridge,mid,263,Owned,Non-foil,FALSE,Isshin
+Temple of Triumph,otc,257,Owned,Non-foil,FALSE,Isshin
+Hanweir Battlements,inr,279,accepted,Non-foil,FALSE,Isshin
+Temple of Silence,m20,256,Owned,Non-foil,FALSE,Isshin
+Shattered Landscape,tdc,390,Owned,Non-foil,FALSE,Isshin
+Rugged Prairie,tdc,389,Owned,Non-foil,FALSE,Isshin
+Minas Tirith,ltr,256,Owned,Non-foil,FALSE,Isshin
+Fetid Heath,tdc,362,Owned,Non-foil,FALSE,Isshin
+"Eiganjo, Seat of the Empire",neo,268,Owned,Non-foil,FALSE,Isshin
+"Teval, the Balanced Scale",tdc,8,Owned,Non-foil,FALSE,Teval
+"Isshin, Two Heavens as One",neo,224,Owned,Non-foil,FALSE,Isshin
+Ureni of the Unwritten,tdc,9,Owned,Non-foil,FALSE,Ureni
+Sol Ring,ecc,106,Owned,Non-foil,FALSE,Ureni
+Dragon Tempest,dtk,136,Owned,Non-foil,FALSE,Ureni
+Temur Ascendancy,ktk,207,Owned,Non-foil,FALSE,Ureni
+"Lathliss, Dragon Queen",m19,149,Owned,Non-foil,FALSE,Ureni
+Arcane Signet,ecc,105,Owned,Non-foil,FALSE,Ureni
+Sol Ring,ecc,106,Owned,Non-foil,FALSE,Isshin
+"Atarka, World Render",frf,149,Owned,Non-foil,FALSE,Ureni
+"Sarkhan, Soul Aflame",tdc,301,Owned,Non-foil,FALSE,Ureni
+Arcane Signet,ecc,105,Owned,Non-foil,FALSE,Isshin
+Hellkite Courser,tdc,218,Owned,Non-foil,FALSE,Ureni
+Sol Ring,ecc,106,Owned,Non-foil,FALSE,Teval
+Farseek,sld,119,Owned,Non-foil,FALSE,Ureni
+Teval's Judgment,tdc,28,Owned,Non-foil,FALSE,Teval
+Broodcaller Scourge,tdc,44,Owned,Non-foil,FALSE,Ureni
+"Miirym, Sentinel Wyrm",sld,284,Owned,Non-foil,FALSE,Ureni
+Colossal Grave-Reaver,tdc,50,Owned,Non-foil,FALSE,Teval
+Life from the Loam,tdc,96,Owned,Non-foil,FALSE,Teval
 Arcane Signet,ecc,105,Owned,Non-foil,FALSE,Teval
-Victimize,2x2,105,Owned,Non-foil,FALSE,Teval
-Farseek,2x2,94,Owned,Non-foil,FALSE,Teval
-"Muldrotha, the Gravetide",tdm,23,Owned,Non-foil,FALSE,Teval
-Sakura-Tribe Elder,2x2,119,Owned,Non-foil,FALSE,Teval
-Meren of Clan Nel Toth,tdm,20,Owned,Non-foil,FALSE,Teval
-Reanimate,tdm,21,Owned,Non-foil,FALSE,Teval
-Dread Return,fdn,25,Owned,Non-foil,FALSE,Teval
-Cultivate,2x2,82,Owned,Non-foil,FALSE,Teval
-Nature's Lore,frf,24,Owned,Non-foil,FALSE,Teval
-Toxic Deluge,2x2,145,Owned,Non-foil,FALSE,Teval
-Heroic Intervention,2x2,80,Owned,Non-foil,FALSE,Teval
+Deceptive Frostkite,tdc,19,Owned,Non-foil,FALSE,Ureni
+Victimize,cmr,157,Owned,Non-foil,FALSE,Teval
+Scourge of the Throne,tdc,230,Owned,Non-foil,FALSE,Ureni
+Kodama's Reach,dmc,245,Owned,Non-foil,FALSE,Ureni
+Hedron Crab,tdc,155,Owned,Non-foil,FALSE,Teval
+Encroaching Dragonstorm,tdm,142,Owned,Non-foil,FALSE,Ureni
+Parapet Thrasher,tdc,36,Owned,Non-foil,FALSE,Ureni
+Swords to Plowshares,eoc,31,Owned,Non-foil,FALSE,Isshin
+Gravecrawler,tdc,93,Owned,Non-foil,FALSE,Teval
+Blasphemous Act,blc,143,Owned,Non-foil,FALSE,Ureni
+Wonder,tdc,170,Owned,Non-foil,FALSE,Teval
+Thundermane Dragon,tdc,38,Owned,Non-foil,FALSE,Ureni
+Dragon's Hoard,clb,858,Owned,Non-foil,FALSE,Ureni
+Beast Within,dsc,80,Owned,Non-foil,FALSE,Ureni
+Hammerhead Tyrant,tdc,21,Owned,Non-foil,FALSE,Ureni
+Dragonlord's Servant,dtk,138,Owned,Non-foil,FALSE,Ureni
+Farseek,sld,119,Owned,Non-foil,FALSE,Teval
+"Muldrotha, the Gravetide",2x2,384,Owned,Non-foil,FALSE,Teval
+Living Death,tdc,185,Owned,Non-foil,FALSE,Teval
+Conduit of Worlds,one,163,Owned,Non-foil,FALSE,Teval
+Elemental Bond,ori,174,Owned,Non-foil,FALSE,Ureni
+Windcrag Siege,tdm,235,Owned,Non-foil,FALSE,Isshin
+Stitcher's Supplier,m19,121,Owned,Non-foil,FALSE,Teval
+"Adeline, Resplendent Cathar",moc,167,Owned,Non-foil,FALSE,Isshin
+Will of the Sultai,tdc,49,Owned,Non-foil,FALSE,Teval
+Dragonlord Atarka,dtk,216,Owned,Non-foil,FALSE,Ureni
+Kishla Skimmer,tdm,201,Owned,Non-foil,FALSE,Teval
+Garruk's Uprising,wot,53,Owned,Non-foil,FALSE,Ureni
+Path to Exile,blc,147,Owned,Non-foil,FALSE,Isshin
+"Krenko, Tin Street Kingpin",war,137,Owned,Non-foil,FALSE,Isshin
+Chaos Warp,blc,115,Owned,Non-foil,FALSE,Ureni
+Skull Prophet,iko,206,Owned,Non-foil,FALSE,Teval
+Sakura-Tribe Elder,tdc,832,Owned,Non-foil,FALSE,Teval
+"Nogi, Draco-Zealot",tdc,226,Owned,Non-foil,FALSE,Ureni
+Rapid Hybridization,blc,111,Owned,Non-foil,FALSE,Ureni
+Frontier Siege,frf,131,Owned,Non-foil,FALSE,Ureni
+Kheru Goldkeeper,tdm,199,Owned,Non-foil,FALSE,Teval
+Insidious Roots,mkm,208,Owned,Non-foil,FALSE,Teval
+Will of the Temur,tdc,24,Owned,Non-foil,FALSE,Ureni
+Terror of the Peaks,otj,149,Owned,Non-foil,FALSE,Ureni
+Sword of the Animist,afc,218,Owned,Non-foil,FALSE,Isshin
+"Anim Pakal, Thousandth Moon",lci,223,Owned,Non-foil,FALSE,Isshin
+The Gitrog Monster,blc,88,Owned,Non-foil,FALSE,Teval
+Tear Asunder,dmu,183,Owned,Non-foil,FALSE,Teval
+Timeless Witness,tdc,274,Owned,Non-foil,FALSE,Teval
+Icetill Explorer,eoe,192,Owned,Non-foil,FALSE,Teval
+"Etali, Primal Storm",rix,100,Owned,Non-foil,FALSE,Isshin
+Lightning Greaves,sld,114,Owned,Non-foil,FALSE,Isshin
+Meren of Clan Nel Toth,sld,685,Owned,Non-foil,FALSE,Teval
+Phyrexian Reclamation,tdc,194,Owned,Non-foil,FALSE,Teval
+Dragonspeaker Shaman,afc,330,Owned,Non-foil,FALSE,Ureni
+Avenger of Zendikar,2xm,152,Owned,Non-foil,FALSE,Teval
+"Ganax, Astral Hunter",clb,176,Owned,Non-foil,FALSE,Ureni
+Thunderbreak Regent,dtk,162,Owned,Non-foil,FALSE,Ureni
+Hedge Shredder,dsk,183,Owned,Non-foil,FALSE,Teval
+"Sidisi, Brood Tyrant",2x2,276,Owned,Non-foil,FALSE,Teval
+"Aurelia, the Warleader",mul,35,Owned,Non-foil,FALSE,Isshin
+Selvala's Stampede,tdc,269,Owned,Non-foil,FALSE,Ureni
+"Ureni, the Song Unending",tdm,233,Owned,Non-foil,FALSE,Ureni
+Hero of Bladehold,tdc,119,Owned,Non-foil,FALSE,Isshin
+Fellwar Stone,c17,210,Owned,Non-foil,FALSE,Ureni
+Captain Lannery Storm,otc,158,Owned,Non-foil,FALSE,Isshin
+"Atsushi, the Blazing Sky",neo,134,Owned,Non-foil,FALSE,Ureni
+Ruinous Ultimatum,spg,108,Owned,Non-foil,FALSE,Isshin
+Harrow,eoc,69,Owned,Non-foil,FALSE,Teval
+Boros Charm,sld,185,Owned,Non-foil,FALSE,Isshin
+Dread Return,dmr,80,Owned,Non-foil,FALSE,Teval
+"Ob Nixilis, the Fallen",tdc,192,Owned,Non-foil,FALSE,Teval
+Rhythm of the Wild,rvr,201,Owned,Non-foil,FALSE,Ureni
+Rampant Growth,afc,166,Owned,Non-foil,FALSE,Teval
+Scourge of Valkas,c17,142,Owned,Non-foil,FALSE,Ureni
+Temur Battlecrier,tdm,228,Owned,Non-foil,FALSE,Ureni
+Talisman of Conviction,tdc,329,Owned,Non-foil,FALSE,Isshin
+Grapple with the Past,emn,160,Owned,Non-foil,FALSE,Teval
+Reality Shift,cmm,125,Owned,Non-foil,FALSE,Ureni
+Swiftfoot Boots,clb,226,Owned,Non-foil,FALSE,Isshin
+Assassin's Trophy,mkm,187,Owned,Non-foil,FALSE,Teval
+Bloomvine Regent,tdm,136,Owned,Non-foil,FALSE,Ureni
+River Kelpie,tdc,166,Owned,Non-foil,FALSE,Teval
+Goldspan Dragon,khm,139,Owned,Non-foil,FALSE,Ureni
+Eternal Witness,cmr,425,Owned,Non-foil,FALSE,Teval
+"Alesha, Who Laughs at Fate",fdn,343,Owned,Non-foil,FALSE,Isshin
+Putrefy,sta,63,Owned,Non-foil,FALSE,Teval
+Afterlife from the Loam,tdc,25,Owned,Non-foil,FALSE,Teval
+"Aurelia, the Law Above",mkm,188,Owned,Non-foil,FALSE,Isshin
+Dracogenesis,tdm,105,Owned,Non-foil,FALSE,Ureni
+Skyknight Vanguard,m20,218,Owned,Non-foil,FALSE,Isshin
+Mardu Ascendancy,ktk,185,Owned,Non-foil,FALSE,Isshin
+Reflections of Littjara,woc,106,Owned,Non-foil,FALSE,Ureni
+Cultivate,lcc,235,Owned,Non-foil,FALSE,Ureni
+Twinflame Tyrant,fdn,97,Owned,Non-foil,FALSE,Ureni
+Utvara Hellkite,rvr,129,Owned,Non-foil,FALSE,Ureni
+Talisman of Impulse,tdc,332,Owned,Non-foil,FALSE,Ureni
+"Kotis, Sibsig Champion",tdc,5,Owned,Non-foil,FALSE,Teval
+Whirlwing Stormbrood,tdm,234,Owned,Non-foil,FALSE,Ureni
+Nature's Lore,dmr,170,Owned,Non-foil,FALSE,Ureni
+Migration Path,iko,164,Owned,Non-foil,FALSE,Ureni
+Talisman of Creativity,soc,330,Owned,Non-foil,FALSE,Ureni
+Nyx Weaver,c20,226,Owned,Non-foil,FALSE,Teval
+"Iroas, God of Victory",c16,205,Owned,Non-foil,FALSE,Isshin
+Become the Avalanche,tdc,43,Owned,Non-foil,FALSE,Ureni
+Old Gnawbone,afr,197,accepted,Non-foil,FALSE,Ureni
+Carnelian Orb of Dragonkind,clb,166,Owned,Non-foil,FALSE,Ureni
+Aftermath Analyst,mkm,148,Owned,Non-foil,FALSE,Teval
+Lethal Scheme,lcc,201,Owned,Non-foil,FALSE,Teval
+Talisman of Hierarchy,tdc,331,Owned,Non-foil,FALSE,Isshin
+"Syr Konrad, the Grim",eld,107,Owned,Non-foil,FALSE,Teval
+"Otharri, Suns' Glory",onc,3,Owned,Non-foil,FALSE,Isshin
+Cultivate,lcc,235,Owned,Non-foil,FALSE,Teval
+Savage Ventmaw,dtk,231,Owned,Non-foil,FALSE,Ureni
+Cauldron of Essence,sos,179,Owned,Non-foil,FALSE,Teval
+Brutal Hordechief,c16,108,Owned,Non-foil,FALSE,Isshin
+Commissar Severina Raine,40k,112,accepted,Non-foil,FALSE,Isshin
+The Scarab God,cmm,353,Owned,Non-foil,FALSE,Teval
+Zurgo Stormrender,tdc,10,Owned,Non-foil,FALSE,Isshin
+Sun Titan,sld,1550,Owned,Non-foil,FALSE,Isshin
+Voice of Victory,tdm,33,Owned,Non-foil,FALSE,Isshin
+"Keiga, the Tide Star",tdc,156,Owned,Non-foil,FALSE,Ureni
+Marang River Regent,tdm,51,Owned,Non-foil,FALSE,Ureni
+"Shigeki, Jukai Visionary",neo,394,Owned,Non-foil,FALSE,Teval
+"Jarad, Golgari Lich Lord",gk1,65,Owned,Non-foil,FALSE,Teval
+Welcome the Dead,tdc,30,Owned,Non-foil,FALSE,Teval
+Springbloom Druid,mh1,181,Owned,Non-foil,FALSE,Teval
+Frostcliff Siege,tdm,187,Owned,Non-foil,FALSE,Ureni
+Ingris Stingerquill,fra,137,accepted,Non-foil,FALSE,Isshin
+"Tatyova, Benthic Druid",lcc,290,Owned,Non-foil,FALSE,Teval
+Talisman of Indulgence,sld,254,Owned,Non-foil,FALSE,Isshin
+Skullclamp,tdc,222,Owned,Non-foil,FALSE,Isshin
+Rising of the Day,ltr,145,Owned,Non-foil,FALSE,Isshin
+Floral Evoker,tdc,46,Owned,Non-foil,FALSE,Teval
+Steward of the Harvest,tdc,48,Owned,Non-foil,FALSE,Teval
+"Myrel, Shield of Argive",bro,18,Owned,Non-foil,FALSE,Isshin
+"Breena, the Demagogue",otc,217,Owned,Non-foil,FALSE,Isshin
+Ainok Strike Leader,tdc,11,Owned,Non-foil,FALSE,Isshin
+Flawless Maneuver,cmm,24,Owned,Non-foil,FALSE,Isshin
+Deathrite Shaman,gk1,59,Owned,Non-foil,FALSE,Teval
+"Karlach, Fury of Avernus",clb,186,Owned,Non-foil,FALSE,Isshin
+Akroma's Will,soa,125,Owned,Non-foil,FALSE,Isshin
+Blasphemous Act,blc,143,Owned,Non-foil,FALSE,Isshin
+Counterspell,sld,45,Owned,Non-foil,FALSE,Teval
+Orzhov Signet,mm3,224,Owned,Non-foil,FALSE,Isshin
+Audacious Thief,m20,84,Owned,Non-foil,FALSE,Isshin
+Grisly Salvage,gk1,64,Owned,Non-foil,FALSE,Teval
+"Mishra, Claimed by Gix",bro,216,accepted,Non-foil,FALSE,Isshin
+Rakdos Signet,c20,249,Owned,Non-foil,FALSE,Isshin
+Mardu Siegebreaker,tdm,206,Owned,Non-foil,FALSE,Isshin
+Firebender Ascension,tla,137,Owned,Non-foil,FALSE,Isshin
+Hanweir Garrison,inr,157,accepted,Non-foil,FALSE,Isshin
+Crawling Sensation,tdc,252,Owned,Non-foil,FALSE,Teval
+"Samut, Hazoret's Champion",fra,251,accepted,Non-foil,FALSE,Isshin
+Tectonic Giant,thb,158,Owned,Non-foil,FALSE,Isshin
+Curse of Opulence,tdc,209,Owned,Non-foil,FALSE,Isshin
+Hammers of Moradin,clb,25,Owned,Non-foil,FALSE,Isshin
+Awaken the Honored Dead,tdm,170,Owned,Non-foil,FALSE,Teval
+Diamond Pick-Axe,lci,143,Owned,Non-foil,FALSE,Isshin
+Lightning Greaves,sld,114,Owned,Non-foil,FALSE,Teval
+Despark,sta,59,Owned,Non-foil,FALSE,Isshin
+Chaos Warp,blc,115,Owned,Non-foil,FALSE,Isshin
+Casualties of War,khc,83,Owned,Non-foil,FALSE,Teval
+Within Range,tdc,32,Owned,Non-foil,FALSE,Isshin
+Damn,drc,89,Owned,Non-foil,FALSE,Isshin
+Impact Tremors,moc,285,Owned,Non-foil,FALSE,Isshin
+Chivalric Alliance,moc,11,accepted,Non-foil,FALSE,Isshin
+Brave the Sands,ktk,5,Owned,Non-foil,FALSE,Isshin
+Helm of the Host,dom,217,Owned,Non-foil,FALSE,Isshin
+Terminate,afc,193,Owned,Non-foil,FALSE,Isshin
